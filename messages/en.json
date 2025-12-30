@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "title": "Metų tema",
+    "subtitle": "A family tradition that adds depth and meaning to everyday life",
+    "cta": "Learn more"
+  },
+  "concept": {
+    "title": "What is it?",
+    "intro": "Two completely unrelated things have been on my mind:",
+    "point1": "People with lots of hobbies and weird obsessions are awesome. When you hear them talk about something super niche that they care about you often realize that they're living their best life. I missed a lot of depth in most of my interests.",
+    "point2": "New Year's Eve feels like it doesn't mean much. Other celebrations like birthdays or personal wins feel better. We tried making our own traditions but nothing felt right.",
+    "solution": "While thinking about my family, I found a way to fix both problems: use the last day of the year to pick a theme for next year for a \"deep dive\" as a family.",
+    "idea": "The idea is to learn a lot about one thing and do fun stuff related to it throughout the year.",
+    "vision": "I imagine a kid could learn about 18 different things, visit 18 places, and learn 18 skills by the time they grow up. For us adults, we could explore 30-40 different things deeply in our lives."
+  },
+  "rules": {
+    "title": "The rules",
+    "rule1": "Theme can be anything from broad to very specific, but it must offer both a destination where it's prominent and activities to pursue throughout the year",
+    "rule2": "Our first year was \"Tea\"—a simple first attempt",
+    "rule3": "Second year was \"Space travel\"",
+    "rule4": "Plan at least one family trip specifically around the theme",
+    "rule5": "Sign up for a regular themed activity at the start of the year (we didn't do it and regret it)",
+    "rule6": "You can continue last year's activities if you enjoyed them, but must embrace the new theme too",
+    "rule7": "Makes gift-giving and souvenir-hunting easier throughout the year",
+    "rule8": "Provides ready answers for \"what should we do today/next week?\"",
+    "rule9": "Creates engaging conversations in social settings - people love sharing their knowledge about the theme, and knowing your theme leads to great recommendations",
+    "rule10": "Set aside a dedicated budget - having allocated funds makes it easier to try exceptional theme-related experiences"
+  },
+  "examples": {
+    "title": "Some examples of our experience so far:",
+    "newYear": "New Year's Eve transformed into an exciting planning session, with the goal of choosing next year's theme by midnight",
+    "teaYear": {
+      "title": "Tea Year Highlights:",
+      "items": [
+        "Discovered and visited tea tastings in every new city",
+        "Made finding local tea spots a priority while traveling",
+        "Experienced our first fancy \"High Tea\"",
+        "Collected local teas as souvenirs",
+        "Exchanged tea sets as Christmas gifts"
+      ]
+    },
+    "spaceYear": {
+      "title": "Space Year Activities:",
+      "items": [
+        "Followed all SpaceX launches",
+        "Studied NASA's missions and future plans",
+        "Watched space documentaries",
+        "Visited a planetarium",
+        "Tracked space events",
+        "Planned trips to Texas (NASA and SpaceX) and Florida (launch sites)"
+      ]
+    }
+  },
+  "footer": {
+    "subtitle": "Theme of the year",
+    "closing": "I think this helps us have meaningful experiences and makes life more interesting."
+  },
+  "language": {
+    "switch": "LT"
+  }
+}
+

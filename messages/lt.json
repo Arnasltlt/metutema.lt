@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "title": "Metų tema",
+    "subtitle": "Šeimos tradicija, kuri prideda gylio ir prasmingumo kasdienybei",
+    "cta": "Sužinokite daugiau"
+  },
+  "concept": {
+    "title": "Kas tai?",
+    "intro": "Dvi visiškai nesusijusios mintys mane užvaldė:",
+    "point1": "Žmonės su daugybe pomėgių ir keistų aistrų yra nuostabūs. Kai girdite juos kalbant apie kažką labai specifinį, kuo jie rūpinasi, dažnai suprantate, kad jie gyvena geriausią savo gyvenimą. Man trūko gylio daugelyje savo pomėgių.",
+    "point2": "Naujieji metai atrodo beprasmiai. Kitos šventės, kaip gimtadieniai ar asmeninės pergalės, jaučiasi geriau. Bandėme sukurti savo tradicijas, bet niekas netiko.",
+    "solution": "Galvodamas apie savo šeimą, radau būdą išspręsti abu klausimus: naudoti paskutinę metų dieną pasirinkti kitų metų temą \"giliam nardymui\" kaip šeimai.",
+    "idea": "Idėja yra daug sužinoti apie vieną dalyką ir visus metus daryti su tuo susijusius linksmus dalykus.",
+    "vision": "Įsivaizduoju, kad vaikas galėtų išmokti apie 18 skirtingų dalykų, aplankyti 18 vietų ir išmokti 18 įgūdžių iki suaugimo. Mums, suaugusiems, galėtume giliai ištirti 30–40 skirtingų dalykų savo gyvenime."
+  },
+  "rules": {
+    "title": "Taisyklės",
+    "rule1": "Tema gali būti bet kas nuo plačios iki labai specifinės, bet ji turi siūlyti ir vietą, kur ji yra svarbi, ir veiklas, kuriomis galima užsiimti visus metus",
+    "rule2": "Pirmieji metai buvo \"Arbata\" – paprastas pirmasis bandymas",
+    "rule3": "Antrieji metai buvo \"Kosmoso kelionės\"",
+    "rule4": "Suplanuokite bent vieną šeimos kelionę specialiai apie temą",
+    "rule5": "Užsiregistruokite į reguliarų teminę veiklą metų pradžioje (mes to nepadarėme ir gailimės)",
+    "rule6": "Galite tęsti praėjusių metų veiklas, jei jomis mėgavotės, bet turite priimti ir naują temą",
+    "rule7": "Palengvina dovanų dovanojimą ir suvenyrų ieškojimą visus metus",
+    "rule8": "Suteikia paruoštus atsakymus į \"ką turėtume daryti šiandien/kitą savaitę?\"",
+    "rule9": "Sukuria įdomius pokalbius socialinėse situacijose – žmonės mėgsta dalytis savo žiniomis apie temą, o žinant jūsų temą, gaunate puikias rekomendacijas",
+    "rule10": "Skirkite specialų biudžetą – turint paskirtų lėšų lengviau išbandyti išskirtines teminės patirties patirtis"
+  },
+  "examples": {
+    "title": "Mūsų patirtis",
+    "newYear": "Naujieji metai virto įdomiu planavimo seansu, kurio tikslas – pasirinkti kitų metų temą iki vidurnakčio",
+    "teaYear": {
+      "title": "Arbatos metai:",
+      "items": [
+        "Atrastos ir aplankytos arbatų degustacijos kiekviename naujame mieste",
+        "Kelionėse prioritetu tapo vietinių arbatos vietų paieška",
+        "Patirta pirmoji išskirtinė \"Aukštoji arbata\"",
+        "Rinkti vietinės arbatos kaip suvenyrai",
+        "Arbatos komplektai kaip Kalėdų dovanos"
+      ]
+    },
+    "spaceYear": {
+      "title": "Kosmoso metų veiklos:",
+      "items": [
+        "Sekta visos SpaceX paleidimai",
+        "Tirta NASA misijos ir ateities planai",
+        "Žiūrėti kosmoso dokumentikos",
+        "Aplankytas planetariumas",
+        "Sekti kosmoso įvykiai",
+        "Suplanuotos kelionės į Teksasą (NASA ir SpaceX) ir Floridą (paleidimo vietos)"
+      ]
+    }
+  },
+  "footer": {
+    "subtitle": "Theme of the year",
+    "closing": "Manau, kad tai padeda mums turėti prasmingas patirtis ir daro gyvenimą įdomesnį."
+  },
+  "language": {
+    "switch": "EN"
+  }
+}
+
