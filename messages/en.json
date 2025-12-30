@@ -15,16 +15,25 @@
   },
   "rules": {
     "title": "The rules",
-    "rule1": "Theme can be anything from broad to very specific, but it must offer both a destination where it's prominent and activities to pursue throughout the year",
-    "rule2": "Our first year was \"Tea\"—a simple first attempt",
-    "rule3": "Second year was \"Space travel\"",
-    "rule4": "Plan at least one family trip specifically around the theme",
-    "rule5": "Sign up for a regular themed activity at the start of the year (we didn't do it and regret it)",
-    "rule6": "You can continue last year's activities if you enjoyed them, but must embrace the new theme too",
-    "rule7": "Makes gift-giving and souvenir-hunting easier throughout the year",
-    "rule8": "Provides ready answers for \"what should we do today/next week?\"",
-    "rule9": "Creates engaging conversations in social settings - people love sharing their knowledge about the theme, and knowing your theme leads to great recommendations",
-    "rule10": "Set aside a dedicated budget - having allocated funds makes it easier to try exceptional theme-related experiences"
+    "core": {
+      "title": "Strict rules",
+      "rule1": "On the night of December 31st, a new theme is chosen and set for the upcoming year.",
+      "rule2": "Once the theme is set, it cannot be changed throughout the year.",
+      "rule3": "A dedicated budget must be allocated to explore the theme.",
+      "rule4": "Plan at least one family trip specifically around the theme."
+    },
+    "suggestions": {
+      "title": "Suggestions for a better experience",
+      "sug1": "Theme can be anything from broad to very specific, but it must offer both a destination where it's prominent and activities to pursue throughout the year.",
+      "sug2": "Sign up for a regular themed activity at the start of the year (e.g., a class, a club, or a subscription).",
+      "sug3": "You can continue last year's activities if you enjoyed them, but you must embrace the new theme too."
+    },
+    "learning": {
+      "title": "What we've learned",
+      "item1": "It makes gift-giving and souvenir-hunting much easier and more meaningful throughout the year.",
+      "item2": "Provides ready answers for \"what should we do today or next week?\"",
+      "item3": "Creates engaging conversations in social settings - people love sharing their knowledge about the theme, and knowing your theme leads to great recommendations."
+    }
   },
   "examples": {
     "title": "Some examples of our experience so far:",
@@ -59,4 +68,3 @@
     "switch": "LT"
   }
 }
-

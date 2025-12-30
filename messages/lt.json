@@ -15,16 +15,25 @@
   },
   "rules": {
     "title": "Taisyklės",
-    "rule1": "Tema gali būti bet kas nuo plačios iki labai specifinės, bet ji turi siūlyti ir vietą, kur ji yra svarbi, ir veiklas, kuriomis galima užsiimti visus metus",
-    "rule2": "Pirmieji metai buvo \"Arbata\" – paprastas pirmasis bandymas",
-    "rule3": "Antrieji metai buvo \"Kosmoso kelionės\"",
-    "rule4": "Suplanuokite bent vieną šeimos kelionę specialiai apie temą",
-    "rule5": "Užsiregistruokite į reguliarų teminę veiklą metų pradžioje (mes to nepadarėme ir gailimės)",
-    "rule6": "Galite tęsti praėjusių metų veiklas, jei jomis mėgavotės, bet turite priimti ir naują temą",
-    "rule7": "Palengvina dovanų dovanojimą ir suvenyrų ieškojimą visus metus",
-    "rule8": "Suteikia paruoštus atsakymus į \"ką turėtume daryti šiandien/kitą savaitę?\"",
-    "rule9": "Sukuria įdomius pokalbius socialinėse situacijose – žmonės mėgsta dalytis savo žiniomis apie temą, o žinant jūsų temą, gaunate puikias rekomendacijas",
-    "rule10": "Skirkite specialų biudžetą – turint paskirtų lėšų lengviau išbandyti išskirtines teminės patirties patirtis"
+    "core": {
+      "title": "Griežtos taisyklės",
+      "rule1": "Gruodžio 31-osios naktį išrenkama ir nustatoma nauja ateinančių metų tema.",
+      "rule2": "Kai tema nustatyta, ji negali būti keičiama visus metus.",
+      "rule3": "Temos tyrinėjimui turi būti skirtas specialus biudžetas.",
+      "rule4": "Suplanuokite bent vieną šeimos kelionę specialiai pagal temą."
+    },
+    "suggestions": {
+      "title": "Patarimai geresnei patirčiai",
+      "sug1": "Tema gali būti bet kas nuo plačios iki labai specifinės, bet ji turi siūlyti ir vietą, kur ji yra svarbi, ir veiklas, kuriomis galima užsiimti visus metus.",
+      "sug2": "Užsiregistruokite į reguliarią teminę veiklą metų pradžioje (pvz., kursus, klubą ar prenumeratą).",
+      "sug3": "Galite tęsti praėjusių metų veiklas, jei jomis mėgavotės, bet turite priimti ir naują temą."
+    },
+    "learning": {
+      "title": "Ką išmokome",
+      "item1": "Tai palengvina dovanų dovanojimą ir suvenyrų paiešką, daro tai prasmingiau visus metus.",
+      "item2": "Suteikia paruoštus atsakymus į klausimą „ką turėtume veikti šiandien ar kitą savaitę?“",
+      "item3": "Sukuria įdomius pokalbius socialinėse situacijose – žmonės mėgsta dalintis žiniomis apie temą, o jūsų temos žinojimas atveda prie puikių rekomendacijų."
+    }
   },
   "examples": {
     "title": "Mūsų patirtis",
@@ -59,4 +68,3 @@
     "switch": "EN"
   }
 }
-
