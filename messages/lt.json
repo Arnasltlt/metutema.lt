@@ -1,17 +1,17 @@
 {
   "hero": {
     "title": "Metų tema",
-    "subtitle": "Šeimos tradicija, kuri prideda gylio ir prasmingumo kasdienybei",
+    "subtitle": "Šeimos tradicija kryptingam pažinimui",
     "cta": "Sužinokite daugiau"
   },
   "concept": {
-    "title": "Kas tai?",
-    "intro": "Dvi visiškai nesusijusios mintys mane užvaldė:",
-    "point1": "Žmonės su daugybe pomėgių ir keistų aistrų yra nuostabūs. Kai girdite juos kalbant apie kažką labai specifinį, kuo jie rūpinasi, dažnai suprantate, kad jie gyvena geriausią savo gyvenimą. Man trūko gylio daugelyje savo pomėgių.",
-    "point2": "Naujieji metai atrodo beprasmiai. Kitos šventės, kaip gimtadieniai ar asmeninės pergalės, jaučiasi geriau. Bandėme sukurti savo tradicijas, bet niekas netiko.",
-    "solution": "Galvodamas apie savo šeimą, radau būdą išspręsti abu klausimus: naudoti paskutinę metų dieną pasirinkti kitų metų temą \"giliam nardymui\" kaip šeimai.",
-    "idea": "Idėja yra daug sužinoti apie vieną dalyką ir visus metus daryti su tuo susijusius linksmus dalykus.",
-    "vision": "Įsivaizduoju, kad vaikas galėtų išmokti apie 18 skirtingų dalykų, aplankyti 18 vietų ir išmokti 18 įgūdžių iki suaugimo. Mums, suaugusiems, galėtume giliai ištirti 30–40 skirtingų dalykų savo gyvenime."
+    "title": "Apie idėją",
+    "intro": "Kai metus vertini kaip teminį vakarėlį, viskas tampa gerokai paprasčiau.",
+    "point1": "Turime begalę pasirinkimų ir pomėgių, bet per mažai valios tikriems, giliems atradimams.",
+    "point2": "Naujųjų naktis dažnai nuvilia. Švenčiame besikeičiančius skaičius kalendoriuje, o ne prasmingus tikslus.",
+    "solution": "Sprendimas: Metų tema",
+    "idea": "Vakarėlio tema padeda išsirinkti muziką ir aprangą. Metų tema lygiai taip pat padeda planuoti keliones, laisvalaikį ir dovanas.",
+    "vision": "Priėmę vieną svarbų sprendimą metų pradžioje, sutaupysite tūkstančius dvejonių per likusias 365 dienas."
   },
   "rules": {
     "title": "Taisyklės",
@@ -61,7 +61,7 @@
     }
   },
   "footer": {
-    "subtitle": "Theme of the year",
+    "subtitle": "Metų tema",
     "closing": "Manau, kad tai padeda mums turėti prasmingas patirtis ir daro gyvenimą įdomesnį."
   },
   "language": {

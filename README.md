@@ -32,3 +32,4 @@ npm run dev
 - Responsive design
 - Language switcher in the hero section
 
+
